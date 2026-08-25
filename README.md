@@ -30,11 +30,15 @@
 
 <p align="center">$\color{#69d1ec}{\text{Languages: Viet/Eng (prefer Eng for safe server)}}$</p>
 
-<p align="center">$\color{#69d1ec}{\text{Shout out my nice friends from Ponytown!!:}}$</p>
-
 <p align="center">$\color{#69d1ec}{\text{⭑꒷꒦ . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. ꒦꒷⭑}}$</p>
 
-<p align="center">$\color{#69d1ec}{\text{@ADelightfulNewDeath, @zyreniscool, @W4SH3RCANW4LK, @xdisturb-x1, @ToxicDaisyTLG,(...))}}$</p>
+<div align="center">
+  
+<p align="center">
+  $\color{#69d1ec}{\text{Shout out}}$
+  <a href="https://rentry.co/one_of_4rts_friends">oomfs</a>
+  $\color{#69d1ec}{\text{from Pony Town! (Click "oomfs" to visit!)}}$
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/_gO4axurVs8AAAAj/nullscape-mart-water-imp.gif" width="20%">
