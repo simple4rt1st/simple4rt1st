@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <a href="https://example.com">here</a> $\color{#69d1ec}{\text{is the link to sign my ata! Feel free to request me}}$ </p>
+  <a href="https://4rt.atabook.org">here</a> $\color{#69d1ec}{\text{is the link to sign my ata! Feel free to request me}}$ </p>
 </div>
 
 <p align="center">
